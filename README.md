@@ -19,15 +19,15 @@ Je suis actuellement en Bachelor Cybersécurité & Réseaux, en recherche d'une 
 
 En alternance chez **GiSûreté**, j'ai été seul responsable de l'infrastructure IT interne et développeur de l'application web métier — de la conception à la mise en production, en passant par la sécurité applicative et le déploiement.
 
-- 🔐 Cybersécurité — audit, durcissement, SIEM (Wazuh), pentest (labs Metasploitable/EternalBlue)
-- 🖥️ Administration système & réseaux — Proxmox, virtualisation, VLAN, hotline N1/N2
-- 💻 Développement web — PHP/MySQL natif, JS vanilla, PWA, CI/CD
-- 🏗️ Infrastructure as Code — Terraform, Ansible
+- 🔐 Cybersécurité : audit, durcissement, SIEM (Wazuh), pentest (labs Metasploitable/EternalBlue)
+- 🖥️ Administration système & réseaux : Proxmox, virtualisation, VLAN, hotline N1/N2
+- 💻 Développement web : PHP/MySQL natif, JS vanilla, PWA, CI/CD
+- 🏗️ Infrastructure as Code : Terraform, Ansible
 
 ### 🚀 Actuellement
 
 - 🎓 Recherche active d'une alternance Mastère Cybersécurité & Réseaux (91/94/77/Paris)
-- 🛠️ Construction de mon portfolio public — projets détaillés ci-dessous
+- 🛠️ Construction de mon portfolio public, projets détaillés ci-dessous
 - 📚 Approfondissement pentest & durcissement système
 
 ---
@@ -84,7 +84,7 @@ Exploitation EternalBlue/MS17-010, post-exploitation (Meterpreter, persistence),
 <td width="50%">
 
 **🖥️ Active Directory Lab**
-*À venir — projet en cours*
+*À venir, projet en cours*
 
 </td>
 </tr>
