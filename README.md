@@ -17,7 +17,7 @@
 
 Je suis actuellement en Bachelor Cybersécurité & Réseaux, en recherche d'une **alternance de 2 ans (Mastère Expert Cybersécurité & Réseaux, RNCP niveau 7)** à partir de septembre 2026.
 
-En alternance chez **GiSûreté**, j'ai été seul responsable de l'infrastructure IT interne et développeur de l'application web métier — de la conception à la mise en production, en passant par la sécurité applicative et le déploiement.
+En alternance chez **GiSûreté**, j'ai été seul responsable de l'infrastructure IT interne et développeur de l'application web métier, de la conception à la mise en production, en passant par la sécurité applicative et le déploiement.
 
 - 🔐 Cybersécurité : audit, durcissement, SIEM (Wazuh), pentest (labs Metasploitable/EternalBlue)
 - 🖥️ Administration système & réseaux : Proxmox, virtualisation, VLAN, hotline N1/N2
