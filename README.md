@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Mast%C3%A8re-Expert%20Cybers%C3%A9curit%C3%A9%20%26%20R%C3%A9seaux-1F6FEB?style=flat-square&labelColor=0D1B2A" alt="Mastère" />
   <img src="https://img.shields.io/badge/RNCP-Niveau%207-FF8C42?style=flat-square&labelColor=0D1B2A" alt="RNCP 7" />
-  <img src="https://img.shields.io/badge/Poste-Responsable%20IT%20%40%20GI%20S%C3%BBret%C3%A9-FFD166?style=flat-square&labelColor=0D1B2A" alt="GI Sûreté" />
+  <img src="https://img.shields.io/badge/Poste-Technicien%20IT%20%40%20GI%20S%C3%BBret%C3%A9-FFD166?style=flat-square&labelColor=0D1B2A" alt="GI Sûreté" />
   <img src="https://komarev.com/ghpvc/?username=marlon-hash-svg&color=1F6FEB&style=flat-square&label=Visites" alt="Visites" />
 </p>
 
