@@ -1,107 +1,120 @@
-<div align="center">
+<!-- ░░ HEADER ░░ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,55:FF8C42,100:FFD166&height=190&section=header&text=Andy%20Claude&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=Cybers%C3%A9curit%C3%A9%20%E2%80%A2%20R%C3%A9seaux%20%E2%80%A2%20Infra&descSize=18&descAlignY=58" alt="header" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=%C3%89tudiant+en+Cybers%C3%A9curit%C3%A9+%26+R%C3%A9seaux;Admin+syst%C3%A8me+%7C+D%C3%A9veloppeur+Web;En+recherche+d%27alternance+%E2%80%94+Sept.+2026" alt="Typing SVG" />
+<p align="center">
+  <a href="https://github.com/marlon-hash-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=FF8C42&center=true&vCenter=true&width=620&lines=Alternant+Cybers%C3%A9curit%C3%A9+%26+R%C3%A9seaux;Seul+responsable+IT+%40+GI+S%C3%BBret%C3%A9;Infra+%E2%80%A2+R%C3%A9seau+%E2%80%A2+Dev+web+%E2%80%A2+S%C3%A9curit%C3%A9;Mast%C3%A8re+Expert+Cyber+%E2%80%94+RNCP+7" alt="Typing SVG" />
+  </a>
+</p>
 
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=marlon-hash-svg&color=2E86DE&style=flat-square&label=Visites+du+profil)
-![Status](https://img.shields.io/badge/Recherche-Alternance%20Mast%C3%A8re%20Cybers%C3%A9curit%C3%A9-2E86DE?style=flat-square)
-
-</div>
-
----
-
-### 👋 À propos de moi
-
-Je suis actuellement en Bachelor Cybersécurité & Réseaux, en recherche d'une **alternance de 2 ans (Mastère Expert Cybersécurité & Réseaux, RNCP niveau 7)** à partir de septembre 2026.
-
-En alternance chez **GiSûreté**, je suis le seul responsable de l'infrastructure IT interne et développeur de l'application web métier, de la conception à la mise en production, en passant par la sécurité applicative et le déploiement.
-
-- 🔐 Cybersécurité : audit, durcissement, SIEM (Wazuh), pentest (labs Metasploitable/EternalBlue)
-- 🖥️ Administration système & réseaux : Proxmox, virtualisation, VLAN, hotline N1/N2
-- 💻 Développement web : PHP/MySQL natif, JS vanilla, PWA, CI/CD
-- 🏗️ Infrastructure as Code : Terraform, Ansible
-
-### 🚀 Actuellement
-
-- 🎓 Recherche active d'une alternance Mastère Cybersécurité & Réseaux (91/94/77/Paris)
-- 🛠️ Construction de mon portfolio public, projets détaillés ci-dessous
-- 📚 Approfondissement pentest & durcissement système
+<p align="center">
+  <img src="https://img.shields.io/badge/Mast%C3%A8re-Expert%20Cybers%C3%A9curit%C3%A9%20%26%20R%C3%A9seaux-1F6FEB?style=flat-square&labelColor=0D1B2A" alt="Mastère" />
+  <img src="https://img.shields.io/badge/RNCP-Niveau%207-FF8C42?style=flat-square&labelColor=0D1B2A" alt="RNCP 7" />
+  <img src="https://img.shields.io/badge/Poste-Responsable%20IT%20%40%20GI%20S%C3%BBret%C3%A9-FFD166?style=flat-square&labelColor=0D1B2A" alt="GI Sûreté" />
+  <img src="https://komarev.com/ghpvc/?username=marlon-hash-svg&color=1F6FEB&style=flat-square&label=Visites" alt="Visites" />
+</p>
 
 ---
 
-### 🧰 Stack technique
+### ⚡ En deux lignes
 
-**Cybersécurité & Réseaux**
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-**Infrastructure & Virtualisation**
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Développement**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+> **Je sécurise, je câble, je code — souvent les trois dans la même journée.**
+> Alternant en cybersécurité & réseaux, en Mastère Expert Cybersécurité & Réseaux (RNCP niveau 7) au CFA-ITIS.
 
 ---
 
-### 📌 Projets phares
+### 🛡️ Actuellement — seul responsable IT chez **GI Sûreté**
 
-<table>
-<tr>
-<td width="50%">
+Toute l'IT interne passe par moi, de la baie réseau jusqu'à l'application métier.
 
-**🎫 Mini-Helpdesk — Démo**
-Application de gestion de tickets et fiches d'intervention, inspirée d'un projet en production. Architecture PHP/MySQL, PWA, audit sécurité (CSRF, XSS, IDOR).
-`PHP` `MySQL` `PWA` `Sécurité applicative`
-
-</td>
-<td width="50%">
-
-**🖧 Homelab — Infra as Code**
-Documentation et configuration de mon lab personnel : Proxmox, VLAN, VMs Debian, monitoring.
-`Proxmox` `Réseaux` `Documentation`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔓 Pentest Labs — Rapports**
-Exploitation EternalBlue/MS17-010, post-exploitation (Meterpreter, persistence), cracking de hash (Hashcat). Rapports méthodologiques complets.
-`Metasploit` `Hashcat` `Reporting`
-
-</td>
-<td width="50%">
-
-**🖥️ Active Directory Lab**
-*À venir, projet en cours*
-
-</td>
-</tr>
-</table>
+| | Périmètre | Au quotidien |
+|:-:|---|---|
+| 🖧 | **Infrastructure** | Serveurs, virtualisation Proxmox, postes et parc |
+| 🌐 | **Réseau** | Segmentation VLAN, accès, supervision |
+| 💻 | **Dev web interne** | Appli de hotline PHP/MySQL : tickets, fiches d'intervention, PV — conception → prod |
+| 🔐 | **Cybersécurité** | Durcissement, sécurité applicative (CSRF, XSS, IDOR), sauvegardes |
 
 ---
 
-<div align="center">
+### 🧰 Compétences
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marlon-hash-svg&show_icons=true&theme=default&hide_border=true&count_private=true)
+**🖥️ Systèmes & Réseaux**
+<br/>
+<img src="https://img.shields.io/badge/Linux-1F6FEB?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/Debian-1F6FEB?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+<img src="https://img.shields.io/badge/Proxmox-1F6FEB?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+<img src="https://img.shields.io/badge/VLAN-1F6FEB?style=for-the-badge&logo=cisco&logoColor=white" alt="VLAN" />
+<img src="https://img.shields.io/badge/Support-N1%20%2F%20N2-1F6FEB?style=for-the-badge&labelColor=0D1B2A" alt="Support N1/N2" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-hash-svg&layout=compact&hide_border=true)
+**🔐 Cybersécurité & Pentest**
+<br/>
+<img src="https://img.shields.io/badge/Wazuh-FF8C42?style=for-the-badge&logoColor=white" alt="Wazuh" />
+<img src="https://img.shields.io/badge/Metasploit-FF8C42?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+<img src="https://img.shields.io/badge/Kali%20Linux-FF8C42?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Wireshark-FF8C42?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Hashcat-FF8C42?style=for-the-badge&logoColor=white" alt="Hashcat" />
 
-</div>
+**💻 Développement web**
+<br/>
+<img src="https://img.shields.io/badge/PHP-FFD166?style=for-the-badge&logo=php&logoColor=0D1B2A" alt="PHP" />
+<img src="https://img.shields.io/badge/MySQL-FFD166?style=for-the-badge&logo=mysql&logoColor=0D1B2A" alt="MySQL" />
+<img src="https://img.shields.io/badge/JavaScript-FFD166?style=for-the-badge&logo=javascript&logoColor=0D1B2A" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PWA-FFD166?style=for-the-badge&logo=pwa&logoColor=0D1B2A" alt="PWA" />
 
-<div align="center">
+**🏗️ DevOps & IaC**
+<br/>
+<img src="https://img.shields.io/badge/Terraform-13315C?style=for-the-badge&logo=terraform&logoColor=FFD166" alt="Terraform" />
+<img src="https://img.shields.io/badge/Ansible-13315C?style=for-the-badge&logo=ansible&logoColor=FFD166" alt="Ansible" />
+<img src="https://img.shields.io/badge/Docker-13315C?style=for-the-badge&logo=docker&logoColor=FFD166" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-13315C?style=for-the-badge&logo=git&logoColor=FFD166" alt="Git" />
+<img src="https://img.shields.io/badge/CI%2FCD-13315C?style=for-the-badge&logo=githubactions&logoColor=FFD166" alt="CI/CD" />
 
-📍 Île-de-France (91/94) &nbsp;•&nbsp; 🎯 Ouvert aux opportunités d'alternance
+---
 
-</div>
+### 🚀 Projet académique — **CYNA**
+
+Conception d'une infrastructure de cybersécurité pour une offre **SaaS EDR / XDR / SOC** : réseau segmenté, déploiement entièrement automatisé, détection centralisée.
+
+```mermaid
+flowchart LR
+    A["🏗️ Terraform<br/>provisioning"] --> B["⚙️ Ansible<br/>configuration"]
+    B --> C["🌐 VLANs<br/>segmentation"]
+    C --> D["🛰️ Agents EDR<br/>endpoints"]
+    D --> E["🧠 Wazuh<br/>SIEM / XDR"]
+    E --> F["🛡️ SOC<br/>détection & réponse"]
+    classDef blue fill:#1F6FEB,stroke:#1F6FEB,color:#fff
+    classDef orange fill:#FF8C42,stroke:#FF8C42,color:#0D1B2A
+    classDef yellow fill:#FFD166,stroke:#FFD166,color:#0D1B2A
+    class A,B blue
+    class C,D orange
+    class E,F yellow
+```
+
+<img src="https://img.shields.io/badge/VLAN-1F6FEB?style=flat-square" alt="VLAN" /> <img src="https://img.shields.io/badge/Terraform-1F6FEB?style=flat-square" alt="Terraform" /> <img src="https://img.shields.io/badge/Ansible-FF8C42?style=flat-square" alt="Ansible" /> <img src="https://img.shields.io/badge/Wazuh-FF8C42?style=flat-square" alt="Wazuh" /> <img src="https://img.shields.io/badge/EDR%20%2F%20XDR-FFD166?style=flat-square" alt="EDR/XDR" /> <img src="https://img.shields.io/badge/SOC-FFD166?style=flat-square" alt="SOC" />
+
+---
+
+### 📊 En chiffres
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marlon-hash-svg&show_icons=true&count_private=true&hide_border=true&bg_color=0D1B2A&title_color=FF8C42&icon_color=FFD166&text_color=E6EDF3&ring_color=1F6FEB&locale=fr" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-hash-svg&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=FF8C42&text_color=E6EDF3&locale=fr" alt="Top langages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=marlon-hash-svg&hide_border=true&background=0D1B2A&ring=FF8C42&fire=FFD166&currStrLabel=FF8C42&sideNums=E6EDF3&sideLabels=1F6FEB&dates=8B9BB4&stroke=13315C&locale=fr" alt="Streak" />
+</p>
+
+---
+
+### 📬 Me contacter
+
+<p align="center">
+  <a href="mailto:TON.EMAIL@exemple.com"><img src="https://img.shields.io/badge/Email-FF8C42?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">📍 Île-de-France</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD166,45:FF8C42,100:1F6FEB&height=110&section=footer" width="100%" alt="footer" />
