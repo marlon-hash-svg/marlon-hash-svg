@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/marlon-hash-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=FF8C42&center=true&vCenter=true&width=620&lines=Alternant+Cybers%C3%A9curit%C3%A9+%26+R%C3%A9seaux;Seul+responsable+IT+%40+GI+S%C3%BBret%C3%A9;Infra+%E2%80%A2+R%C3%A9seau+%E2%80%A2+Dev+web+%E2%80%A2+S%C3%A9curit%C3%A9;Mast%C3%A8re+Expert+Cyber+%E2%80%94+RNCP+7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=FF8C42&center=true&vCenter=true&width=620&lines=Alternant+Cybers%C3%A9curit%C3%A9+%26+R%C3%A9seaux;Seul+Technicien+IT+%40+GI+S%C3%BBret%C3%A9;Infra+%E2%80%A2+R%C3%A9seau+%E2%80%A2+Dev+web+%E2%80%A2+S%C3%A9curit%C3%A9;Mast%C3%A8re+Expert+Cyber+%E2%80%94+RNCP+7" alt="Typing SVG" />
   </a>
 </p>
 
