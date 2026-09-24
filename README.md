@@ -111,8 +111,8 @@ flowchart LR
 ### 📬 Me contacter
 
 <p align="center">
-  <a href="mailto:TON.EMAIL@exemple.com"><img src="https://img.shields.io/badge/Email-FF8C42?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:marlonclau04@gmail.com"><img src="https://img.shields.io/badge/Email-FF8C42?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="www.linkedin.com/in/andy-claude-a60277293"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">📍 Île-de-France</p>
